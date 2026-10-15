@@ -1,0 +1,11 @@
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Dependências / artefactos (este projeto não precisa de build)
+node_modules/
+*.zip
+
+# Editores
+.vscode/
+.idea/
